@@ -6,4 +6,4 @@ class Dog
   end
   end
   
-  dog_one = Dog.new(Fido, Snoopy, Lassie)
+  dog_one = Dog.new("Fido", "Snoopy", "Lassie")
