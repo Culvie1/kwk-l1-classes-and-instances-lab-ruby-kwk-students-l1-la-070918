@@ -7,3 +7,5 @@ class Person
   end 
   
   person_one = Person.new("Adele_Goldberg", "Alan_Kay")
+  
+  puts person_one.person 
