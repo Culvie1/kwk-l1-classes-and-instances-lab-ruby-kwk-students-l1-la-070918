@@ -7,3 +7,5 @@ class Dog
   end
   
   dog_one = Dog.new("Fido", "Snoopy", "Lassie")
+  
+  puts dog_one.dogs
