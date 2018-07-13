@@ -1,3 +1,4 @@
 # dog.rb
 class Dog 
-  attr_accessor
+  attr_accessor :dogs
+  
